@@ -41,7 +41,7 @@ public class Utils {
 		Properties prop = new Properties();
 
 		FileInputStream fis = new FileInputStream(
-				"C:\\Users\\503339\\OneDrive - Cognizant\\503339_MyDriveData\\Ayesha\\EclipseProjects\\APIFrameworkusingCucumber\\src\\test\\java\\resources\\gloabal.properties");
+				"C:\\Users\\Rafeek\\git\\APIFrameworkusingCucumber\\APIFrameworkusingCucumber\\src\\test\\java\\resources\\gloabal.properties");
 
 		prop.load(fis);
 
